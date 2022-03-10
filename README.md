@@ -2,8 +2,8 @@
 <hr>
 
 <li>Download Repository, unzip it</li>
-<li> download the Requierments</li>
-<li>run the notebooks</li>
+<li>Download the Requierments</li>
+<li>Run the notebooks</li>
 
 # Download Requierments
 To install packages:</br>
